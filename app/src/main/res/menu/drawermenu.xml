@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/movieGenre"
+        android:title="Action"
+        android:icon="@drawable/action"
+        />
+    <item
+          android:id="@+id/movieGenre_adven"
+          android:title="Adventure"
+          android:icon="@drawable/western"
+          />
+</menu>
+    <!--    <item
+          android:id="@+id/movieGenre_superHero"
+          android:title="Superhero"
+          android:icon="@drawable/batman"
+          />
+      <item
+          android:id="@+id/movieGenre_mystrey"
+          android:title="Mystrey"
+          android:icon="@drawable/detective"
+          />
+      <item
+          android:id="@+id/movieGenre_comdey"
+          android:title="Comdey"
+          android:icon="@drawable/comedy"
+          />
+      <item
+          android:id="@+id/movieGenre_sci"
+          android:title="Sci-fi"
+          android:icon="@drawable/sci_fi"
+          />
+      <item
+          android:id="@+id/movieGenre_horror"
+          android:title="Horror"
+          android:icon="@drawable/horror"
+          />
+      <item
+          android:id="@+id/movieGenre_romance"
+          android:title="Romance"
+          android:icon="@drawable/ic_noun_romance_61055"
+          />
+
+      <item
+          android:id="@+id/movieGenre_thriller"
+          android:title="Thriller"
+          android:icon="@drawable/triller"
+          />
+      <item
+          android:id="@+id/movieGenre_drama"
+          android:title="Drama"
+          android:icon="@drawable/drama"
+          />
+      <item
+          android:id="@+id/movieGenre_crime"
+          android:title="Crime"
+          android:icon="@drawable/crime"
+          />
+      <item
+          android:id="@+id/movieGenre_musical"
+          android:title="Musical"
+          android:icon="@drawable/musical"
+          />
+      <item
+          android:id="@+id/movieGenre_fantasy"
+          android:title="Fantasy"
+          android:icon="@drawable/fantasy"
+          />
+
+      <item
+          android:id="@+id/movieGenre_war"
+          android:title="War"
+          android:icon="@drawable/canon"
+          />
+      <item
+          android:id="@+id/movieGenre_animation"
+          android:title="Animation"
+          android:icon="@drawable/ic_animation"
+          />
+      <item
+          android:id="@+id/movieGenre_history"
+          android:title="History"
+          android:icon="@drawable/historical"
+          />
+      <item
+          android:id="@+id/movieGenre_sport"
+          android:title="Sport"
+          android:icon="@drawable/ic_sport"
+
+          />
+  -->

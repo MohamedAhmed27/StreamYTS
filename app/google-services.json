@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563310670131",
+    "firebase_url": "https://steam-yts.firebaseio.com",
+    "project_id": "steam-yts",
+    "storage_bucket": "steam-yts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563310670131:android:f5ef7f643403d50b",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.popularmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563310670131-prduqt0pi92cnh1l0vgn1c0nipedn2q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.popularmovies",
+            "certificate_hash": "d5b12b1feb864bbfeca293f0809444ce413d5206"
+          }
+        },
+        {
+          "client_id": "563310670131-qaelms3oevdv7l4h9i36o6p8kpj9ihqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RHv3DhdAn3YBO70kOea5gs_h_qk5QSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563310670131-qaelms3oevdv7l4h9i36o6p8kpj9ihqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
